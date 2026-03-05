@@ -27,7 +27,7 @@ This project develops a churn prediction system using machine learning models an
 - Matplotlib
 
 ## Results
-- Best Model: Logistic Regression
+- Best Model: XgBoost
 - ROC-AUC Score: ~0.75
 - Estimated Revenue at Risk: ~$764K
 - Potential Net Gain from Retention Campaign: ~$206K
